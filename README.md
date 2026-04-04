@@ -222,7 +222,7 @@ When asking Claude to generate a new entry, it will use this structure:
       <footer class="post-footer">
         <a href="/" class="post-back">← All entries</a>
         <div class="post-channel-links">
-          <a href="https://contextwindow.dev">Context Window →</a>
+          <a href="https://contextwindow.to">Context Window →</a>
           <a href="https://postsynaptic.dev">PostSynaptic →</a>
         </div>
       </footer>
